@@ -11,6 +11,7 @@ SRPMS
 CVS
 # Dropped by Rock roll build process
 roll-profile.mk
+roll-perftest.xml
 Rolls.mk
 Rules-install.mk
 Rules-linux-centos.mk
@@ -28,3 +29,5 @@ rocks-version.mk
 *.spec
 *.spec.mk
 *.version.mk
+*.iso
+disk*/
